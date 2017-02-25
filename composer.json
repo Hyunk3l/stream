@@ -1,0 +1,15 @@
+{
+    "name": "hyunk3l/stream",
+    "description": "Java 8 Stream api port for PHP",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Fabri Di Napoli",
+            "email": "hyunk3l at gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^6.0"
+    }
+}
