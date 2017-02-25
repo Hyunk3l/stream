@@ -16,12 +16,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Hyunk3l\\Stream": "src"
+            "Hyunk3l\\Stream\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Hyunk3l\\Test\\Stream": "test"
+            "Hyunk3l\\Test\\Stream\\": "test/"
         }
     }
 }
